@@ -1,2 +1,2 @@
 # DREAM-catcher
-We sell you your dreams.
+We sell you dreams.
